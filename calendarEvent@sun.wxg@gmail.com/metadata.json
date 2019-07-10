@@ -1,0 +1,11 @@
+{
+  "description": "Calendar Event",
+  "name": "Calendar Event",
+  "original-authors": "sun.wxg@gmail.com",
+  "shell-version": [
+    "3.32"
+  ],
+  "url": "",
+  "uuid": "calendarEvent@sun.wxg@gmail.com",
+  "version": 1
+}

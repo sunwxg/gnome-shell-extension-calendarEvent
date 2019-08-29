@@ -6,3 +6,5 @@
 make install
 ```
 restart system
+
+![screenshot](/calendar.png)
